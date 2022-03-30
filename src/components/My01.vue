@@ -73,9 +73,9 @@ const generate_layouts = (layout: string, text: string) => {
     //})
   }
 }
-setInterval(() => {
+/*setInterval(() => {
   console.log(gened_layouts.value[0])
-}, 1000)
+}, 1000)*/
 watch(gened_layouts, (new_gened_layouts) => {
   console.log("change!!")
 })

@@ -1,5 +1,5 @@
 {
-  "name": "02_router",
+  "name": "ortho_search",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
