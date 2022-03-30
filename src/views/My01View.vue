@@ -20,6 +20,8 @@ import My01 from '@/components/My01.vue'
     <p><a href="https://github.com/oha-Ohashi/ortho_search">
       GitHub Repository
     </a></p>
+    <p><a href="https://oha-ohashi.github.io/">Home
+    </a></p>
   </footer>
 </template>
 
