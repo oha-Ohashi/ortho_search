@@ -4,7 +4,7 @@ import My01 from '@/components/My01.vue'
 
 <template>
   <header class="container">
-    <h1>オルソリさーち | Ortho Search</h1>
+    <h1>オルソリさーち | Ortho Search </h1>
   </header>
   <main class="container">
     <My01 msg="lalala"  />
